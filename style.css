@@ -1,0 +1,82 @@
+header{
+    background-image: url("https://3dnews.ru/assets/external/illustrations/2023/10/15/1094486/omnimen-debyutiroval-v-mortal-kombat-1-main.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 50px;
+    height: 400px;
+    color: rgb(243, 242, 241);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgb(153, 0, 0) 7px 5px 5px;
+
+
+}
+
+h1{
+    margin-top: 0;
+}
+main{
+    background: radial-gradient(#05fffb, #eb0808);
+    font-size: 35px;
+    height: 100%;
+    color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgb(96, 20, 167) 7px 5px 5px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+    width: 80%;
+    height: 100%;
+    display: flex;
+}
+.left{
+    font-size: 30px;
+    text-shadow: none;
+    float: left;
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+}
+.raiht{
+    float: right;
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+}
+
+
+footer{
+
+    background-color: rgb(0, 0, 0);
+    font-size: 35px;
+    height: 100%;
+    color: rgb(252, 244, 244);
+    text-align: center;
+    display: flex;
+
+
+}
+
+.f_left{
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+
+}
+.f_right{
+    width: 70%;
+    color: white;
+}
+.f_right img{
+    width: 100px;
+    padding-right: 20px;
+}
+
+.f_right ul{
+    list-style: none ;
+    display: flex;
+}
